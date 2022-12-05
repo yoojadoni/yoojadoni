@@ -9,6 +9,7 @@
 <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=java&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/JPA-6DB33F?style=for-the-badge&logo=JPA&logoColor=white"/>&nbsp
   <br/>
 <img src="https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=Mysql&logoColor=white"/>&nbsp
@@ -17,11 +18,13 @@
   <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Javascript-e1eb2a?style=for-the-badge&logo=Javascript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Jquery-e1eb2a?style=for-the-badge&logo=Jquery&logoColor=white"/></a>&nbsp
 <h3 align="center" dir="auto">
   Tools
 </h3>
 <img src="https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=IntelliJIDEA&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=EclipseIDE&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Eclipse-800080?style=for-the-badge&logo=EclipseIDE&logoColor=white"/></a>&nbsp
 </div>
 
 <!--
