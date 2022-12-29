@@ -20,6 +20,7 @@
 <img src="https://img.shields.io/badge/Mysql-blue?style=for-the-badge&logo=Mysql&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Oracle-red?style=for-the-badge&logo=Oracle&logoColor=white"/>&nbsp
 <img src="https://img.shields.io/badge/Mssql-blue?style=for-the-badge&logo=Mssql&logoColor=white"/>&nbsp
+<img src="https://img.shields.io/badge/Kafka-black?style=for-the-badge&logo=Kafka&logoColor=white"/>&nbsp
   <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/React-blue?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp
